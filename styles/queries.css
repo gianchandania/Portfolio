@@ -168,13 +168,13 @@
 
     .navigate {
     	position: absolute;
-    	top: 40%;				
+    	top: 60%;				
     	left: -1%; 
     	width: 100%;
     	margin: 0;
     	padding: 0;
     	white-space: nowrap;
-    	padding-bottom: -70px;
+    	
     }
 
     
@@ -190,11 +190,9 @@
 	}
 
 	.parent-image img {
-		margin-top: -80px;
-		width: 180px;
-		height: 190px;
-		
-	}
+		width: 140px;
+		height: 150px;
+		}
 
 	.skill-icon i {
 		font-size: 2.5em;
@@ -327,7 +325,7 @@
 	.parent-image img {
 		width: 140px;
 		height: 150px;
-		padding-top: 50px;
+		
 	}
 
 	.navigate li {
