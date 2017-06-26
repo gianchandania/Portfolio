@@ -63,7 +63,7 @@
 }
 
 
-@media only screen and (max-width: 1023px), only screen and (orientation: landscape) {
+@media only screen and (max-width: 1023px) {
 
 	body { font-size: 18px; }
     
@@ -154,7 +154,7 @@
 
 }
 
-@media only screen and (max-width: 767px) and (orientation: portrait) {
+@media only screen and (max-width: 767px) {
 
 	body { font-size: 16px; }
 
@@ -345,7 +345,7 @@
 
 }
 
-@media only screen and (max-width: 480px) and (orientation: portrait) {
+@media only screen and (max-width: 480px) {
 
 	.col { 
 		/*margin: 1% 0 1% 0%;*/
